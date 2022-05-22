@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Luciano Augusto Campagnoli da Silva",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "near-sdk-as": "^3.2.3"
   }
 }
