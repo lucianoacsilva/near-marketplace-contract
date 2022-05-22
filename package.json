@@ -1,0 +1,15 @@
+{
+  "name": "near-marketplace-contract",
+  "version": "1.0.0",
+  "description": "Example marketplace dapp made over NEAR DLT (based over Dacade Tutorial)",
+  "main": "assembly/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luciano Augusto Campagnoli da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
